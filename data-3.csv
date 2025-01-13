@@ -1,0 +1,150 @@
+Month,Customer Type,Age,Corporate Type,Vehicle Type,Price (Lacs),City
+2024-01,Individual,35,-,Sedan,10.45,Gurgaon
+2024-01,Corporate,-,Medium,SUV,24.82,Faridabad
+2024-01,Individual,42,-,Mini Van,18.76,Gurgaon
+2024-01,Corporate,-,Large,Sedan,11.23,Manesar
+2024-01,Individual,29,-,SUV,22.91,Faridabad
+2024-01,Individual,48,-,Sedan,10.88,Gurgaon
+2024-01,Corporate,-,Small,Mini Van,19.45,Palwal
+2024-01,Individual,33,-,Sedan,11.15,Manesar
+2024-01,Corporate,-,Medium,SUV,27.34,Faridabad
+2024-02,Individual,52,-,Sedan,10.67,Gurgaon
+2024-02,Corporate,-,Large,SUV,29.18,Faridabad
+2024-02,Individual,38,-,Mini Van,17.92,Manesar
+2024-02,Individual,45,-,Sedan,11.34,Gurgaon
+2024-02,Corporate,-,Small,SUV,25.67,Faridabad
+2024-02,Individual,31,-,Sedan,10.78,Palwal
+2024-02,Corporate,-,Medium,Mini Van,21.45,Gurgaon
+2024-02,Individual,56,-,Sedan,11.56,Faridabad
+2024-02,Individual,27,-,SUV,23.89,Manesar
+2024-02,Corporate,-,Large,Sedan,10.92,Gurgaon
+2024-02,Individual,39,-,Mini Van,16.78,Faridabad
+2024-03,Individual,44,-,Sedan,11.12,Gurgaon
+2024-03,Corporate,-,Small,SUV,26.45,Manesar
+2024-03,Individual,34,-,Sedan,10.56,Faridabad
+2024-03,Corporate,-,Medium,Mini Van,22.34,Palwal
+2024-03,Individual,47,-,SUV,28.91,Gurgaon
+2024-03,Corporate,-,Large,Sedan,11.78,Faridabad
+2024-03,Individual,32,-,Mini Van,20.45,Gurgaon
+2024-03,Individual,51,-,Sedan,10.89,Manesar
+2024-03,Corporate,-,Small,SUV,24.67,Faridabad
+2024-03,Individual,36,-,Sedan,11.23,Gurgaon
+2024-03,Corporate,-,Medium,SUV,25.91,Manesar
+2024-03,Individual,49,-,Mini Van,19.34,Faridabad
+2024-03,Individual,28,-,Sedan,10.67,Gurgaon
+2024-03,Corporate,-,Large,SUV,27.82,Palwal
+2024-04,Individual,43,-,Sedan,11.45,Faridabad
+2024-04,Corporate,-,Small,Mini Van,18.92,Gurgaon
+2024-04,Individual,37,-,SUV,26.34,Manesar
+2024-04,Corporate,-,Medium,Sedan,10.78,Faridabad
+2024-04,Individual,54,-,Mini Van,21.56,Gurgaon
+2024-04,Individual,30,-,Sedan,11.34,Palwal
+2024-04,Corporate,-,Large,SUV,28.45,Manesar
+2024-04,Individual,41,-,Sedan,10.92,Faridabad
+2024-04,Corporate,-,Small,Mini Van,17.67,Gurgaon
+2024-04,Individual,35,-,SUV,24.91,Faridabad
+2024-04,Corporate,-,Medium,Sedan,11.67,Manesar
+2024-04,Individual,48,-,Mini Van,22.34,Gurgaon
+2024-04,Individual,33,-,Sedan,10.45,Palwal
+2024-04,Corporate,-,Large,SUV,29.78,Faridabad
+2024-04,Individual,46,-,Sedan,11.23,Gurgaon
+2024-04,Corporate,-,Small,Mini Van,19.89,Manesar
+2024-04,Individual,29,-,SUV,25.67,Faridabad
+2024-04,Corporate,-,Medium,Sedan,10.89,Gurgaon
+2024-04,Individual,52,-,Mini Van,20.45,Palwal
+2024-05,Individual,38,-,Sedan,11.56,Faridabad
+2024-05,Corporate,-,Large,SUV,27.34,Manesar
+2024-05,Individual,45,-,Sedan,10.67,Gurgaon
+2024-05,Corporate,-,Small,Mini Van,18.92,Faridabad
+2024-05,Individual,31,-,SUV,26.78,Palwal
+2024-05,Corporate,-,Medium,Sedan,11.34,Gurgaon
+2024-05,Individual,56,-,Mini Van,21.23,Manesar
+2024-05,Individual,27,-,Sedan,10.78,Faridabad
+2024-05,Corporate,-,Large,SUV,28.91,Gurgaon
+2024-05,Individual,39,-,Sedan,11.67,Palwal
+2024-05,Corporate,-,Small,Mini Van,17.45,Faridabad
+2024-05,Individual,44,-,SUV,25.34,Manesar
+2024-05,Corporate,-,Medium,Sedan,10.92,Gurgaon
+2024-05,Individual,34,-,Mini Van,22.67,Faridabad
+2024-05,Individual,47,-,Sedan,11.23,Palwal
+2024-05,Corporate,-,Large,SUV,29.45,Gurgaon
+2024-05,Individual,32,-,Sedan,10.56,Manesar
+2024-05,Corporate,-,Small,Mini Van,19.78,Faridabad
+2024-05,Individual,51,-,SUV,26.91,Gurgaon
+2024-05,Corporate,-,Medium,Sedan,11.45,Palwal
+2024-06,Individual,36,-,Mini Van,20.67,Faridabad
+2024-06,Corporate,-,Large,SUV,27.89,Manesar
+2024-06,Individual,49,-,Sedan,10.78,Gurgaon
+2024-06,Corporate,-,Small,Mini Van,18.45,Faridabad
+2024-06,Individual,28,-,SUV,25.67,Palwal
+2024-06,Corporate,-,Medium,Sedan,11.92,Gurgaon
+2024-06,Individual,43,-,Mini Van,21.34,Manesar
+2024-06,Individual,37,-,Sedan,10.67,Faridabad
+2024-06,Corporate,-,Large,SUV,28.56,Gurgaon
+2024-06,Individual,54,-,Sedan,11.78,Palwal
+2024-06,Corporate,-,Small,Mini Van,17.91,Faridabad
+2024-06,Individual,30,-,SUV,26.45,Manesar
+2024-06,Corporate,-,Medium,Sedan,10.89,Gurgaon
+2024-06,Individual,41,-,Mini Van,22.23,Faridabad
+2024-06,Individual,35,-,Sedan,11.34,Palwal
+2024-06,Corporate,-,Large,SUV,29.67,Gurgaon
+2024-06,Individual,48,-,Sedan,10.45,Manesar
+2024-06,Corporate,-,Small,Mini Van,19.56,Faridabad
+2024-06,Individual,33,-,SUV,27.23,Gurgaon
+2024-06,Corporate,-,Medium,Sedan,11.67,Palwal
+2024-06,Individual,46,-,Mini Van,20.89,Faridabad
+2024-06,Individual,29,-,SUV,25.45,Manesar
+2024-06,Corporate,-,Large,Sedan,10.92,Gurgaon
+2024-06,Individual,52,-,Mini Van,18.78,Faridabad
+2024-06,Corporate,-,Small,SUV,28.34,Palwal
+2024-06,Individual,38,-,Sedan,11.23,Gurgaon
+2024-06,Corporate,-,Medium,Mini Van,21.67,Manesar
+2024-06,Individual,45,-,SUV,26.89,Faridabad
+2024-06,Individual,31,-,Sedan,10.56,Gurgaon
+2024-06,Corporate,-,Large,Mini Van,19.34,Palwal
+2024-06,Individual,56,-,SUV,27.78,Manesar
+2024-06,Corporate,-,Small,Sedan,11.45,Faridabad
+2024-06,Individual,27,-,Mini Van,22.56,Gurgaon
+2024-06,Individual,39,-,SUV,25.91,Palwal
+2024-06,Corporate,-,Medium,Sedan,10.78,Manesar
+2024-06,Individual,44,-,Mini Van,18.67,Faridabad
+2024-06,Corporate,-,Large,SUV,29.23,Gurgaon
+2024-06,Individual,34,-,Sedan,11.89,Palwal
+2024-01,Individual,47,-,Mini Van,20.45,Manesar
+2024-01,Corporate,-,Small,SUV,26.67,Faridabad
+2024-01,Individual,32,-,Sedan,10.92,Gurgaon
+2024-01,Corporate,-,Medium,Mini Van,19.78,Palwal
+2024-01,Individual,51,-,SUV,27.45,Manesar
+2024-01,Individual,36,-,Sedan,11.34,Faridabad
+2024-01,Corporate,-,Large,Mini Van,21.91,Gurgaon
+2024-01,Individual,49,-,SUV,25.67,Palwal
+2024-02,Corporate,-,Small,Sedan,10.45,Manesar
+2024-02,Individual,28,-,Mini Van,18.89,Faridabad
+2024-02,Corporate,-,Medium,SUV,28.34,Gurgaon
+2024-02,Individual,43,-,Sedan,11.67,Palwal
+2024-02,Individual,37,-,Mini Van,20.23,Manesar
+2024-02,Corporate,-,Large,SUV,26.78,Faridabad
+2024-02,Individual,54,-,Sedan,10.89,Gurgaon
+2024-02,Corporate,-,Small,Mini Van,19.45,Palwal
+2024-02,Individual,30,-,SUV,27.91,Manesar
+2024-03,Corporate,-,Medium,Sedan,11.23,Faridabad
+2024-03,Individual,41,-,Mini Van,21.56,Gurgaon
+2024-03,Individual,35,-,SUV,25.89,Palwal
+2024-03,Corporate,-,Large,Sedan,10.67,Manesar
+2024-03,Individual,48,-,Mini Van,18.34,Faridabad
+2024-03,Corporate,-,Small,SUV,28.67,Gurgaon
+2024-03,Individual,33,-,Sedan,11.78,Palwal
+2024-03,Individual,46,-,Mini Van,20.91,Manesar
+2024-03,Corporate,-,Medium,SUV,26.45,Faridabad
+2024-04,Individual,29,-,Sedan,10.92,Gurgaon
+2024-04,Corporate,-,Large,Mini Van,19.67,Palwal
+2024-04,Individual,52,-,SUV,27.23,Manesar
+2024-04,Corporate,-,Small,Sedan,11.45,Faridabad
+2024-04,Individual,38,-,Mini Van,21.78,Gurgaon
+2024-04,Individual,45,-,SUV,25.34,Palwal
+2024-04,Corporate,-,Medium,Sedan,10.89,Manesar
+2024-04,Individual,31,-,Mini Van,18.56,Faridabad
+2024-04,Corporate,-,Large,SUV,28.91,Gurgaon
+2024-05,Individual,56,-,Sedan,11.67,Palwal
+2024-05,Individual,,,,,
+Last edited just now,,,,,,

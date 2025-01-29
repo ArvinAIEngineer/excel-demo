@@ -48,7 +48,7 @@ def initialize_agent():
         return None
 
 def main():
-    st.title("📊 Vikas Group Demo")
+    st.title("📊 Excel Demo")
     
     # Initialize agent on startup
     if st.session_state.csv_agent is None:
